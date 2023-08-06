@@ -1,0 +1,19 @@
+********new client started *********
+Client socket : 127.0.0.1:8800
+Tracker 1 socket : 127.0.0.1:5000
+Tracker 2 socket : 127.0.0.1:6000
+******Connection stablished successfully with tracker!!!
+Command from cient : get g.mtorrent get2.cpp
+GET command exe in client side
+(GET cmd)Complex Data need to send to tracker :get#c86a6ad3a8532f87373e9b5b631dfe0ee4b95af4
+client msg message sent to Tracker
+client(127.0.0.1:8800)got reply from tracker ===> 127.0.0.1:8801#get.cpp
+dofiletransfering called : 127.0.0.1:8801#get.cpp
+******Avialable seeders for downloading file*******
+127.0.0.1:8801--->get.cpp
+****************************************************
+******Connection  established for file transffering !!!
+Mtorrent creater called for filepath : get2.cpp
+Mtorrent Succesfully created
+share cmd gets Long Hash : 4a303e38b355494b9488
+(SHARE cmd)Complex Data need to send to tracker :share#c86a6ad3a8532f87373e9b5b631dfe0ee4b95af4#127.0.0.1:8800#get2.cpp
