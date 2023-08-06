@@ -1,7 +1,4 @@
 # Efficient-data-communication-and-storage-using-synchronized-servers
-Sure! Here's a detailed README file for your "Synchronized Servers For Reliable Data Storage" project:
-
-# Synchronized Servers For Reliable Data Storage
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +7,6 @@ Sure! Here's a detailed README file for your "Synchronized Servers For Reliable 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
