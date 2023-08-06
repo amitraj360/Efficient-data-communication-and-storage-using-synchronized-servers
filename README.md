@@ -86,12 +86,6 @@ To install and run the system, follow these steps:
 3. To clean solution 
    * ```make clean```
    ```
-
-3. Configure the servers:
-   ```
-   # Instructions for setting up and configuring servers.
-   ```
-
 4. Run the system:
    ```
    # Instructions to start the servers and clients.
